@@ -7,5 +7,7 @@ Baseado no valor por hora e na quantidade de horas trabalhadas calcula o quanto 
 - **Salário por mês**: salário hora * horas trabalhadas
 
 ## 🔨 Tecnologias
-HTML, CSS, Javascript
+<img src="html.png" width="20" alt="html">
+<img src="css.png" width="20" alt="css">
+<img src="js.png" width="20" alt="javascript"> 
 
